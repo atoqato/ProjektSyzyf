@@ -2361,3 +2361,34 @@ Script Stack (0 frames) :
 [2026.05.19-14.04.34:377][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.19-14.04.34:377][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.19-14.04.34:377][ 31]AssetCheck: /Game/UI/WBP_Warning Validating asset
+[2026.05.19-14.05.06:781][698]LogSlate: Window 'WBP_Warning' being destroyed
+[2026.05.19-14.05.06:802][698]LogSlate: Window 'WBP_Warning' being destroyed
+[2026.05.19-14.05.06:811][698]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-14.05.06:811][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-14.05.06:820][698]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-14.05.06:820][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-14.05.06:885][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.05.19-14.06.29:509][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2483.673340
+[2026.05.19-14.06.30:508][530]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-14.06.30:509][530]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2484.340088, Update Interval: 301.913513
+[2026.05.19-14.12.06:208][  8]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.05.19-14.12.06:208][  8]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.05.19-14.12.21:722][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-14.12.21:746][876]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.05.19-14.12.21:746][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.05.19-14.12.21:767][876]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.05.19-14.12.21:767][876]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/BP_ThirdPersonCharacter5209FBC549F98B980775C3952F370AE4.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.05.19-14.12.21:773][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.464 ms (total: 940.057 ms)
+[2026.05.19-14.12.21:802][876]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-14.12.21:802][876]LogContentValidation: Enabled validators:
+[2026.05.19-14.12.21:802][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-14.12.21:802][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-14.12.21:802][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-14.12.21:802][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-14.12.21:802][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-14.12.21:802][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-14.12.21:802][876]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.05.19-14.12.21:839][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2835.994385
+[2026.05.19-14.12.22:008][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-14.12.22:008][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2836.148926, Update Interval: 311.730103
+[2026.05.19-14.12.22:687][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
