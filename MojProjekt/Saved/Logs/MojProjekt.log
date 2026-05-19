@@ -2340,3 +2340,61 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.19-11.02.05:701][407]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2026.05.19-11.02.05:701][407]LogShaderCompilers: Display: Material Cache Hits: 32 (24%)
 [2026.05.19-11.02.05:701][407]LogShaderCompilers: Display: ================================================
+[2026.05.19-11.03.55:096][269]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.19-11.03.55:107][269]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.19-11.03.55:122][270]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.19-11.03.57:799][458]LogContentBrowser: Attempting asset rename: NewFolder -> zamek
+[2026.05.19-11.03.57:799][458]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.19-11.04.08:362][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-11.04.08:362][977]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/BP_Zamek] ([2] browsable assets)...
+[2026.05.19-11.04.08:435][977]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/BP_Zamek.BP_Zamek]
+[2026.05.19-11.04.08:435][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/BP_Zamek]
+[2026.05.19-11.04.08:435][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Zamek" FILE="../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/Interactables/BP_Zamek.uasset" SILENT=true
+[2026.05.19-11.04.08:441][977]LogSavePackage: Moving output files for package: /Game/Interactables/BP_Zamek
+[2026.05.19-11.04.08:441][977]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/BP_Zamek940BF43B4FDE0A09DB7E60A51E5A7373.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/Interactables/BP_Zamek.uasset'
+[2026.05.19-11.04.08:442][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/zamek/zamkniecie] ([1] browsable assets)...
+[2026.05.19-11.04.08:442][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/zamek/zamkniecie]
+[2026.05.19-11.04.08:444][977]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/zamek/zamkniecie
+[2026.05.19-11.04.08:444][977]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/zamkniecie838572D04E6F6C37D133CCA7790FD665.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/zamkniecie.uasset'
+[2026.05.19-11.04.08:445][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/zamek/obudowa] ([1] browsable assets)...
+[2026.05.19-11.04.08:445][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/zamek/obudowa]
+[2026.05.19-11.04.08:445][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/zamek/obudowa" FILE="../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/obudowa.uasset" SILENT=true
+[2026.05.19-11.04.08:447][977]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/zamek/obudowa
+[2026.05.19-11.04.08:447][977]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/obudowaA860025B4F7ACE738B6554AE2E684463.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/obudowa.uasset'
+[2026.05.19-11.04.08:448][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/zamek/Cylinder_003] ([1] browsable assets)...
+[2026.05.19-11.04.08:448][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/zamek/Cylinder_003]
+[2026.05.19-11.04.08:450][977]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/zamek/Cylinder_003
+[2026.05.19-11.04.08:450][977]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/Cylinder_0035FF1641E4C262017383D568CE2FE9D9D.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/Cylinder_003.uasset'
+[2026.05.19-11.04.08:452][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/zamek/Cylinder_002] ([1] browsable assets)...
+[2026.05.19-11.04.08:452][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/zamek/Cylinder_002]
+[2026.05.19-11.04.08:453][977]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/zamek/Cylinder_002
+[2026.05.19-11.04.08:453][977]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/Cylinder_002DC6415FE4F6D578AB3D28792BF45DE51.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/Cylinder_002.uasset'
+[2026.05.19-11.04.08:455][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/zamek/Cylinder_001] ([1] browsable assets)...
+[2026.05.19-11.04.08:455][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/zamek/Cylinder_001]
+[2026.05.19-11.04.08:457][977]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/zamek/Cylinder_001
+[2026.05.19-11.04.08:457][977]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/Cylinder_001707EED304DC6119FB79E43BBF0C831F9.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/Cylinder_001.uasset'
+[2026.05.19-11.04.08:458][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/zamek/Cylinder] ([1] browsable assets)...
+[2026.05.19-11.04.08:458][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/zamek/Cylinder]
+[2026.05.19-11.04.08:458][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/zamek/Cylinder" FILE="../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/Cylinder.uasset" SILENT=true
+[2026.05.19-11.04.08:460][977]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/zamek/Cylinder
+[2026.05.19-11.04.08:460][977]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/Cylinder4816BBC642CD297880617EA580D86495.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/LevelPrototyping/Meshes/zamek/Cylinder.uasset'
+[2026.05.19-11.04.08:461][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.533 ms (total: 1.17 sec)
+[2026.05.19-11.04.08:555][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.05.19-11.04.08:581][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.05.19-11.04.08:602][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.05.19-11.04.08:623][977]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.19-11.04.08:623][977]LogContentValidation: Display: Starting to validate 7 assets
+[2026.05.19-11.04.08:623][977]LogContentValidation: Enabled validators:
+[2026.05.19-11.04.08:623][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-11.04.08:623][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-11.04.08:623][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-11.04.08:623][977]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-11.04.08:623][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-11.04.08:623][977]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-11.04.08:623][977]AssetCheck: /Game/Interactables/BP_Zamek Validating asset
+[2026.05.19-11.04.08:623][977]AssetCheck: /Game/LevelPrototyping/Meshes/zamek/zamkniecie Validating asset
+[2026.05.19-11.04.08:623][977]AssetCheck: /Game/LevelPrototyping/Meshes/zamek/obudowa Validating asset
+[2026.05.19-11.04.08:625][977]AssetCheck: /Game/LevelPrototyping/Meshes/zamek/Cylinder_003 Validating asset
+[2026.05.19-11.04.08:625][977]AssetCheck: /Game/LevelPrototyping/Meshes/zamek/Cylinder_002 Validating asset
+[2026.05.19-11.04.08:625][977]AssetCheck: /Game/LevelPrototyping/Meshes/zamek/Cylinder_001 Validating asset
+[2026.05.19-11.04.08:625][977]AssetCheck: /Game/LevelPrototyping/Meshes/zamek/Cylinder Validating asset
