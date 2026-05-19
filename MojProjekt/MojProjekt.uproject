@@ -38,6 +38,22 @@
 		{
 			"Name": "SlateScreenReader",
 			"Enabled": true
+		},
+		{
+			"Name": "AnimNextStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "MassAI",
+			"Enabled": true
+		},
+		{
+			"Name": "MassCrowd",
+			"Enabled": true
 		}
 	]
 }
