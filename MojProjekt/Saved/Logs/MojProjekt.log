@@ -5331,3 +5331,268 @@ Sampler Limit: 32
 [2026.05.20-18.01.07:727][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.20-18.01.07:727][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.20-18.01.07:727][946]AssetCheck: /Game/UI/StaminaWidget/StaminaWidget Validating asset
+[2026.05.20-18.03.24:803][563]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.20-18.03.24:811][563]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.20-18.03.24:822][564]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.20-18.03.26:121][709]LogContentBrowser: Attempting asset rename: NewFolder -> icon
+[2026.05.20-18.03.26:121][709]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.20-18.03.39:276][210]LogStreaming: Display: FlushAsyncLoading(1062): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.20-18.03.39:297][210]LogInterchangeEngine: [Pending] Importing
+[2026.05.20-18.03.39:297][210]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/student/Downloads/Z_zaznaczenia.png]
+[2026.05.20-18.03.39:997][212]LogStreaming: Display: FlushAsyncLoading(1072): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.20-18.03.40:004][213]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.20-18.03.40:284][214]LogTexture: Display: Building textures: /Game/icon/Z_zaznaczenia.Z_zaznaczenia (BGRA8, 343x343 x1x1x1) (Required Memory Estimate: 5.03915 MB), EncodeSpeed: Fast
+[2026.05.20-18.03.40:633][214]LogInterchangeEngine: Display: Interchange import completed [C:/Users/student/Downloads/Z_zaznaczenia.png]
+[2026.05.20-18.03.40:641][214]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.20-18.03.40:641][214]LogInterchangeEngine: [Success] Import Done
+[2026.05.20-18.03.50:243][165]LogContentBrowser: Attempting asset rename: Z_zaznaczenia -> eye
+[2026.05.20-18.03.50:324][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-18.03.50:324][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/icon/eye] ([1] browsable assets)...
+[2026.05.20-18.03.50:326][165]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/icon/eye.eye]
+[2026.05.20-18.03.50:326][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/icon/eye]
+[2026.05.20-18.03.50:326][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icon/eye" FILE="C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset" SILENT=true
+[2026.05.20-18.03.50:330][165]LogSavePackage: Moving output files for package: /Game/icon/eye
+[2026.05.20-18.03.50:330][165]LogSavePackage: Moving 'C:/Users/student/ProjektSyzyf/MojProjekt/Saved/eye8DA1325A47C9C9D2B8769BAF9EE007DB.tmp' to 'C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset'
+[2026.05.20-18.03.50:331][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.085 ms (total: 10.1 sec)
+[2026.05.20-18.03.50:376][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.20-18.03.50:399][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.05.20-18.03.50:418][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.20-18.03.50:457][165]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-18.03.50:457][165]LogContentValidation: Enabled validators:
+[2026.05.20-18.03.50:457][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-18.03.50:457][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-18.03.50:457][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-18.03.50:457][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-18.03.50:457][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-18.03.50:457][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-18.03.50:457][165]AssetCheck: /Game/icon/eye Validating asset
+[2026.05.20-18.03.51:205][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-18.03.51:258][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/icon/eye] ([1] browsable assets)...
+[2026.05.20-18.03.51:258][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/icon/eye]
+[2026.05.20-18.03.51:258][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icon/eye" FILE="C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset" SILENT=true
+[2026.05.20-18.03.51:262][249]LogSavePackage: Moving output files for package: /Game/icon/eye
+[2026.05.20-18.03.51:262][249]LogSavePackage: Moving 'C:/Users/student/ProjektSyzyf/MojProjekt/Saved/eye3A97FE544DD1A27A2D7C4CB3C392994F.tmp' to 'C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset'
+[2026.05.20-18.03.51:268][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.308 ms (total: 10.2 sec)
+[2026.05.20-18.03.51:325][249]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-18.03.51:325][249]LogContentValidation: Enabled validators:
+[2026.05.20-18.03.51:325][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-18.03.51:325][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-18.03.51:325][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-18.03.51:325][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-18.03.51:325][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-18.03.51:325][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-18.03.51:325][249]AssetCheck: /Game/icon/eye Validating asset
+[2026.05.20-18.03.52:722][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-18.03.52:775][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/icon/eye] ([1] browsable assets)...
+[2026.05.20-18.03.52:775][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/icon/eye]
+[2026.05.20-18.03.52:775][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icon/eye" FILE="C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset" SILENT=true
+[2026.05.20-18.03.52:780][406]LogSavePackage: Moving output files for package: /Game/icon/eye
+[2026.05.20-18.03.52:780][406]LogSavePackage: Moving 'C:/Users/student/ProjektSyzyf/MojProjekt/Saved/eye769DD9E44C92471F52CF90A67D1DE391.tmp' to 'C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset'
+[2026.05.20-18.03.52:785][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.069 ms (total: 10.3 sec)
+[2026.05.20-18.03.52:842][406]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-18.03.52:842][406]LogContentValidation: Enabled validators:
+[2026.05.20-18.03.52:842][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-18.03.52:842][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-18.03.52:842][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-18.03.52:842][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-18.03.52:842][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-18.03.52:842][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-18.03.52:842][406]AssetCheck: /Game/icon/eye Validating asset
+[2026.05.20-18.04.08:286][900]LogSlate: External Image Picker: DecompressImage failed
+[2026.05.20-18.04.35:453][673]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1686.580566
+[2026.05.20-18.04.35:630][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.20-18.04.35:630][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1686.744507, Update Interval: 326.036560
+[2026.05.20-18.06.00:764][615]LogSlate: Window 'Project Settings' being destroyed
+[2026.05.20-18.06.00:772][615]LogSlate: Window 'Project Settings' being destroyed
+[2026.05.20-18.06.01:200][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-18.06.01:245][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/icon/eye] ([1] browsable assets)...
+[2026.05.20-18.06.01:245][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/icon/eye]
+[2026.05.20-18.06.01:245][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icon/eye" FILE="C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset" SILENT=true
+[2026.05.20-18.06.01:250][638]LogSavePackage: Moving output files for package: /Game/icon/eye
+[2026.05.20-18.06.01:250][638]LogSavePackage: Moving 'C:/Users/student/ProjektSyzyf/MojProjekt/Saved/eye1CB927CB4D92641C4F021FBF98D71A27.tmp' to 'C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/eye.uasset'
+[2026.05.20-18.06.01:256][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.430 ms (total: 10.3 sec)
+[2026.05.20-18.06.01:295][638]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-18.06.01:295][638]LogContentValidation: Enabled validators:
+[2026.05.20-18.06.01:295][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-18.06.01:295][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-18.06.01:295][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-18.06.01:295][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-18.06.01:295][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-18.06.01:295][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-18.06.01:295][638]AssetCheck: /Game/icon/eye Validating asset
+[2026.05.20-18.06.17:797][288]LogSlate: Window 'Message' being destroyed
+[2026.05.20-18.06.17:801][288]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/UI/UI_Assets/stamina_bar.stamina_bar
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.20-18.06.17:874][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.20-18.06.17:950][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.20-18.06.18:067][288]LogSlate: Window 'stamina_bg' being destroyed
+[2026.05.20-18.06.18:070][288]LogSlate: Window 'stamina_bg' being destroyed
+[2026.05.20-18.06.18:117][288]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:117][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:177][288]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.20-18.06.18:177][288]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:177][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:238][288]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:238][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:251][288]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:251][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:297][288]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:297][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:309][288]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:309][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:353][288]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:353][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:365][288]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.18:365][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.18:675][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.05.20-18.06.21:991][476]LogAssetTools: Warning: Failed to import 'C:\Users\student\Downloads\Z_zaznaczenia.ico'. Unknown extension 'ico'.
+[2026.05.20-18.06.33:874][166]LogContentBrowser: Attempting asset rename: eye -> gała
+[2026.05.20-18.06.33:936][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-18.06.33:937][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/icon/gała] ([1] browsable assets)...
+[2026.05.20-18.06.33:937][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/icon/gała]
+[2026.05.20-18.06.33:937][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icon/gała" FILE="C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/gała.uasset" SILENT=true
+[2026.05.20-18.06.33:941][166]LogSavePackage: Moving output files for package: /Game/icon/gała
+[2026.05.20-18.06.33:941][166]LogSavePackage: Moving 'C:/Users/student/ProjektSyzyf/MojProjekt/Saved/gała44378E654C80F28F6E1D17934E80219F.tmp' to 'C:/Users/student/ProjektSyzyf/MojProjekt/Content/icon/gała.uasset'
+[2026.05.20-18.06.33:941][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.892 ms (total: 10.3 sec)
+[2026.05.20-18.06.33:973][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.20-18.06.33:995][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.05.20-18.06.34:015][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.20-18.06.34:072][166]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-18.06.34:072][166]LogContentValidation: Enabled validators:
+[2026.05.20-18.06.34:072][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-18.06.34:072][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-18.06.34:072][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-18.06.34:072][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-18.06.34:072][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-18.06.34:072][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-18.06.34:072][166]AssetCheck: /Game/icon/gała Validating asset
+[2026.05.20-18.06.42:959][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.20-18.06.44:755][459]LogSlate: Window 'Save Content' being destroyed
+[2026.05.20-18.06.44:760][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-18.06.44:815][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Assets/stamina_bar] ([1] browsable assets)...
+[2026.05.20-18.06.44:843][459]OBJ SavePackage:     Rendered thumbnail for [Material /Game/UI/UI_Assets/stamina_bar.stamina_bar]
+[2026.05.20-18.06.44:843][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Assets/stamina_bar]
+[2026.05.20-18.06.44:843][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/stamina_bar" FILE="C:/Users/student/ProjektSyzyf/MojProjekt/Content/UI/UI_Assets/stamina_bar.uasset" SILENT=true
+[2026.05.20-18.06.44:845][459]LogSavePackage: Moving output files for package: /Game/UI/UI_Assets/stamina_bar
+[2026.05.20-18.06.44:846][459]LogSavePackage: Moving 'C:/Users/student/ProjektSyzyf/MojProjekt/Saved/stamina_barF3DDCF224CBDE0827924A6BF3761FC5C.tmp' to 'C:/Users/student/ProjektSyzyf/MojProjekt/Content/UI/UI_Assets/stamina_bar.uasset'
+[2026.05.20-18.06.44:851][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.030 ms (total: 10.4 sec)
+[2026.05.20-18.06.44:946][459]LogStall: Shutdown...
+[2026.05.20-18.06.44:946][459]LogStall: Shutdown complete.
+[2026.05.20-18.06.45:028][459]LogSlate: Window 'MojProjekt - Unreal Editor' being destroyed
+[2026.05.20-18.06.45:109][459]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-18.06.45:109][459]LogContentValidation: Enabled validators:
+[2026.05.20-18.06.45:109][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-18.06.45:109][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-18.06.45:109][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-18.06.45:109][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-18.06.45:109][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-18.06.45:109][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-18.06.45:109][459]AssetCheck: /Game/UI/UI_Assets/stamina_bar Validating asset
+[2026.05.20-18.06.45:111][459]Cmd: QUIT_EDITOR
+[2026.05.20-18.06.45:111][460]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.20-18.06.45:122][460]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.20-18.06.45:122][460]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.20-18.06.45:123][460]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.20-18.06.45:123][460]LogWorld: UWorld::CleanupWorld for playmap, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:123][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:147][460]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.20-18.06.45:147][460]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.20-18.06.45:150][460]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:150][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:153][460]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:153][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:156][460]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:156][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:159][460]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:159][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:164][460]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:164][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:167][460]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:167][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:171][460]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:171][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:174][460]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:174][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:178][460]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:178][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:181][460]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:181][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:183][460]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:183][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:187][460]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:187][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:190][460]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:190][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:192][460]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:192][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:196][460]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:196][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:199][460]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:199][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:202][460]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:202][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:204][460]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:204][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:207][460]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-18.06.45:207][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-18.06.45:210][460]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.20-18.06.45:212][460]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.05.20-18.06.45:212][460]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.05.20-18.06.45:212][460]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.05.20-18.06.45:518][460]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.20-18.06.45:518][460]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.20-18.06.45:518][460]LogAudio: Display: Audio Device unregistered from world 'playmap'.
+[2026.05.20-18.06.45:518][460]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.20-18.06.45:518][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.05.20-18.06.45:520][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.05.20-18.06.45:526][460]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.20-18.06.45:526][460]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.20-18.06.45:528][460]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.20-18.06.45:528][460]LogExit: Preparing to exit.
+[2026.05.20-18.06.45:587][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.05.20-18.06.45:599][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:600][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.20-18.06.45:895][460]LogEditorDataStorage: Deinitializing
+[2026.05.20-18.06.46:011][460]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.20-18.06.46:020][460]LogExit: Editor shut down
+[2026.05.20-18.06.46:022][460]LogExit: Transaction tracking system shut down
+[2026.05.20-18.06.46:144][460]LogExit: Object subsystem successfully closed.
+[2026.05.20-18.06.46:186][460]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.20-18.06.46:886][460]LogMemoryProfiler: Shutdown
+[2026.05.20-18.06.46:886][460]LogNetworkingProfiler: Shutdown
+[2026.05.20-18.06.46:886][460]LoadingProfiler: Shutdown
+[2026.05.20-18.06.46:886][460]LogTimingProfiler: Shutdown
+[2026.05.20-18.06.47:200][460]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.20-18.06.47:201][460]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.05.20-18.06.47:201][460]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.20-18.06.47:201][460]RenderDocPlugin: plugin has been unloaded.
+[2026.05.20-18.06.47:211][460]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.20-18.06.47:211][460]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC7EBB327-45F8-75E1-1AC4-868AC08781EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=48c2b3264335ecb30300558ffc3f8262%7Ccfaf7d35c1d5445694ad4b0cfcf19780%7C9e82adaa-d285-4a30-be1c-43735ff3e0f7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.20-18.06.47:765][460]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.20-18.06.47:770][460]LogXGEController: Cleaning working directory: C:/Users/student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.20-18.06.47:771][460]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.20-18.06.47:771][460]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.20-18.06.47:771][460]LogPakFile: Destroying PakPlatformFile
+[2026.05.20-18.06.48:073][460]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.20-18.06.48:119][460]LogExit: Exiting.
+[2026.05.20-18.06.48:144][460]Log file closed, 05/20/26 20:06:48
