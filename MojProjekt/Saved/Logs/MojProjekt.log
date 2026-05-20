@@ -5370,3 +5370,119 @@ Sampler Limit: 32
 [2026.05.20-09.50.12:956][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
 [2026.05.20-09.50.12:968][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
 [2026.05.20-09.50.13:073][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2026.05.20-09.52.35:422][370]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4042.085205
+[2026.05.20-09.52.36:423][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.20-09.52.36:423][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4042.752441, Update Interval: 335.278168
+[2026.05.20-09.53.10:352][802]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.20-09.53.13:111][978]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.20-09.53.32:347][161]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_GuzikSwiatlo.BP_GuzikSwiatlo
+[2026.05.20-09.53.32:347][161]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2026.05.20-09.53.45:774][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.05.20-09.53.45:822][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-09.53.45:850][803]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/BP_GuzikSwiatlo] ([2] browsable assets)...
+[2026.05.20-09.53.45:860][803]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/BP_GuzikSwiatlo.BP_GuzikSwiatlo]
+[2026.05.20-09.53.45:862][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/BP_GuzikSwiatlo]
+[2026.05.20-09.53.45:862][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_GuzikSwiatlo" FILE="../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/Interactables/BP_GuzikSwiatlo.uasset" SILENT=true
+[2026.05.20-09.53.45:867][803]LogSavePackage: Moving output files for package: /Game/Interactables/BP_GuzikSwiatlo
+[2026.05.20-09.53.45:868][803]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/BP_GuzikSwiatlo9ADF6F2049D2C9F482EAA6BD25F9EF69.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/Interactables/BP_GuzikSwiatlo.uasset'
+[2026.05.20-09.53.45:875][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.202 ms (total: 3.43 sec)
+[2026.05.20-09.53.45:915][803]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-09.53.45:915][803]LogContentValidation: Enabled validators:
+[2026.05.20-09.53.45:915][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-09.53.45:915][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-09.53.45:915][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-09.53.45:915][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-09.53.45:915][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-09.53.45:915][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-09.53.45:915][803]AssetCheck: /Game/Interactables/BP_GuzikSwiatlo Validating asset
+[2026.05.20-09.53.53:040][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.05.20-09.53.53:076][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.20-09.53.53:096][143]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/BP_GuzikSwiatlo] ([2] browsable assets)...
+[2026.05.20-09.53.53:106][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/BP_GuzikSwiatlo.BP_GuzikSwiatlo]
+[2026.05.20-09.53.53:106][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/BP_GuzikSwiatlo]
+[2026.05.20-09.53.53:106][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_GuzikSwiatlo" FILE="../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/Interactables/BP_GuzikSwiatlo.uasset" SILENT=true
+[2026.05.20-09.53.53:113][143]LogSavePackage: Moving output files for package: /Game/Interactables/BP_GuzikSwiatlo
+[2026.05.20-09.53.53:113][143]LogSavePackage: Moving '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Saved/BP_GuzikSwiatlo0F18BEE24A5D806F4373398E65C3160C.tmp' to '../../../../../projekt_syzyf/ProjektSyzyf/MojProjekt/Content/Interactables/BP_GuzikSwiatlo.uasset'
+[2026.05.20-09.53.53:120][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.235 ms (total: 3.47 sec)
+[2026.05.20-09.53.53:172][143]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.20-09.53.53:172][143]LogContentValidation: Enabled validators:
+[2026.05.20-09.53.53:172][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.20-09.53.53:172][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.20-09.53.53:172][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.20-09.53.53:172][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.20-09.53.53:172][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.20-09.53.53:172][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.20-09.53.53:172][143]AssetCheck: /Game/Interactables/BP_GuzikSwiatlo Validating asset
+[2026.05.20-09.53.56:699][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.20-09.53.56:711][321]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.05.20-09.53.56:712][321]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.05.20-09.53.56:725][321]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 12.666 ms (total: 368.551 ms)
+[2026.05.20-09.53.56:725][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.20-09.53.56:725][321]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.05.20-09.53.56:745][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020392s)
+[2026.05.20-09.53.56:745][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020430s)
+[2026.05.20-09.53.56:767][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.20-09.53.56:772][321]LogBlueprintUserMessages: [BP_GameInstance_C_33] 8380
+[2026.05.20-09.53.56:772][321]LogBlueprintUserMessages: [BP_GameInstance_C_33] 8428
+[2026.05.20-09.53.56:772][321]LogBlueprintUserMessages: [BP_GameInstance_C_33] 6055
+[2026.05.20-09.53.56:772][321]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.05.20-09.53.56:774][321]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.20-09.53.56:774][321]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.20-09.53.56:774][321]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.20-09.53.56:774][321]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.20-09.53.56:782][321]LogWorldPartition: Display: WorldPartition initialize took 6.862 ms (total: 657.257 ms)
+[2026.05.20-09.53.56:782][321]LogPlayLevel: PIE: World Init took: (0.009344s)
+[2026.05.20-09.53.56:783][321]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.05.20-09.53.56:783][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.20-09.53.56:783][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.20-09.53.56:783][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.20-09.53.56:783][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.20-09.53.56:783][321]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.20-09.53.56:783][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.20-09.53.56:783][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.20-09.53.56:783][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.20-09.53.56:783][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.20-09.53.56:783][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.20-09.53.56:783][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.20-09.53.56:785][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.20-09.53.56:812][321]LogAudioMixer: Display: Using Audio Hardware Device LG ULTRAGEAR (NVIDIA High Definition Audio)
+[2026.05.20-09.53.56:813][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.20-09.53.56:813][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.20-09.53.56:813][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.20-09.53.56:813][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.05.20-09.53.56:813][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.05.20-09.53.56:817][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.05.20-09.53.56:817][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.05.20-09.53.56:817][321]LogInit: FAudioDevice initialized with ID 35.
+[2026.05.20-09.53.56:817][321]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonMap'.
+[2026.05.20-09.53.56:817][321]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.05.20-09.53.56:820][321]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.20-09.53.56:835][321]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.05.20-11.53.56
+[2026.05.20-09.53.56:836][321]LogWorld: Bringing up level for play took: 0.015560
+[2026.05.20-09.53.56:838][321]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2026.05.20-09.53.56:846][321]PIE: Server logged in
+[2026.05.20-09.53.56:848][321]PIE: Play in editor total start time 0,136 seconds.
+[2026.05.20-09.54.05:775][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.20-09.54.05:775][790]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.05.20-09.54.05:776][790]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-09.54.05:780][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-09.54.05:780][790]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.05.20-09.54.05:789][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.20-09.54.05:797][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-09.54.05:823][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.20-09.54.05:824][790]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.05.20-09.54.05:824][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2026.05.20-09.54.05:826][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2026.05.20-09.54.05:830][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.20-09.54.05:839][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.05.20-09.54.05:963][791]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2026.05.20-09.54.08:826][898]LogSlate: Window 'BP_GuzikSwiatlo' being destroyed
+[2026.05.20-09.54.08:830][898]LogSlate: Window 'BP_GuzikSwiatlo' being destroyed
+[2026.05.20-09.54.08:840][898]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-09.54.08:840][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-09.54.08:909][898]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-09.54.08:909][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-09.54.08:975][898]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.20-09.54.08:975][898]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-09.54.08:975][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-09.54.09:058][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
